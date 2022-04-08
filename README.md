@@ -4,12 +4,15 @@
 [GitHub](https://github.com/ZachRauch)|
 [Email](zach.rauch0@gmail.com)
 
+## Business Problem
 
+## Data
 
+## Model
 
+## Conclosions
 
-
-
+## Next Steps
 
 ## Repository Structure
 ---

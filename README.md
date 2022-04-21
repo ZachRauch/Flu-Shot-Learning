@@ -9,7 +9,13 @@
 
 ## Data
 
-## Model
+## Model 
+
+![img](./images/Confusion.jpeg)
+
+## Most Important Features
+
+![img](./images/Feature Importance.jpeg)
 
 ## Conclosions
 
@@ -18,16 +24,15 @@
 ## Repository Structure
 ---
 ```
-├── Workspace  
+├── data  
 │
-├── data
-│     ├── Features Descriptions
-│     ├── submission_format.csv
-│     ├── test_set_features.csv
-│     ├── training_set_features.csv
-│     └── training_set_labels.csv
+├── Workspace
 ├── images
+├── .gitignore
+├── Predicting Seasonal Vaccine Status.ipynb
 ├── README.md
-├── 
-└── 
+├── avg2_model.sav
+├── model2.py
+├── tuned_etc.sav
+└── tuned_forest.sav
 ```

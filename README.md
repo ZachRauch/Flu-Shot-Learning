@@ -15,7 +15,7 @@
 
 ## Most Important Features
 
-![img](./images/Feature Importance.jpeg)
+![img](./images/Feature_Importance.jpeg)
 
 ## Conclosions
 

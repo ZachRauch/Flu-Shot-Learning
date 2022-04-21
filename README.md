@@ -13,6 +13,7 @@
 
 ![img](./images/Confusion.jpeg)
 
+![img](./images/ROC_Curve.jpeg)
 ## Most Important Features
 
 ![img](./images/Feature_Importance.jpeg)

@@ -13,7 +13,7 @@ The Mayo Clinic has tasked us with predicting how likely individuals are to rece
 - How can we get more people to get vaccinated?
 
 ## Data
-The data was provided by DrivenData as a part of their competition. Details about the competition and getting the data can be found https://www.drivendata.org/competitions/66/flu-shot-learning/. Data was collected via random phone interviews. This may have implications regarding the validity and accuracy of the data. However, the target variable in this case was evenly distributed (47%:53%). 
+The data was provided by DrivenData as a part of their competition. Details about the competition and getting the data can be found https://www.drivendata.org/competitions/66/flu-shot-learning/. Data was collected via random phone interviews. This may have implications regarding the validity and accuracy of the data. However, the target variable in this case was evenly distributed. 47% for Vaccinated and 53% for Unvaccinated. 
 
 ![img](./images/Vaccination_Distribution.jpeg)
 ## Methods

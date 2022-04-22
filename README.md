@@ -22,7 +22,7 @@
 
 ![img](./images/Feature_Importance.jpeg)
 
-## Conclosions
+## Conclusions
 
 ## Next Steps
 

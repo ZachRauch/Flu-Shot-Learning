@@ -9,11 +9,15 @@
 
 ## Data
 
+
+![img](./images/Vaccination_Distribution.jpeg)
 ## Model 
 
-![img](./images/Confusion.jpeg)
+![img](./images/Confusion2.jpeg)
 
-![img](./images/ROC_Curve.jpeg)
+![img](./images/ROC_Curve2.jpeg)
+
+![img](./images/Prediction_Accuracy.jpeg)
 ## Most Important Features
 
 ![img](./images/Feature_Importance.jpeg)

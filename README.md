@@ -30,14 +30,11 @@
 ---
 ```
 ├── data  
-│
 ├── Workspace
 ├── images
 ├── .gitignore
 ├── Predicting Seasonal Vaccine Status.ipynb
 ├── README.md
-├── avg2_model.sav
-├── model2.py
-├── tuned_etc.sav
+├── Seasonal Vaccine .pdf
 └── tuned_forest.sav
 ```

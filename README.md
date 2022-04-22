@@ -6,8 +6,14 @@
 [Email](zach.rauch0@gmail.com)
 
 ## Business Problem
+The Mayo Clinic has tasked us with predicting how likely individuals are to receive the seasonal flu vaccine. We will concentrate on:
+
+- Predicting who will get the seasonal vaccine.
+- The most significant features in determining whether or not an individual will get vaccinated?.
+- How can we get more people to get vaccinated?
 
 ## Data
+The data was provided by DrivenData as a part of their competition. Details about the competition and getting the data can be found https://www.drivendata.org/competitions/66/flu-shot-learning/
 
 
 ![img](./images/Vaccination_Distribution.jpeg)

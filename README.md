@@ -54,7 +54,7 @@ The top 3 most important features in determining whether a person was to get vac
 ├── .gitignore
 ├── Predicting Seasonal Vaccine Status.ipynb
 ├── README.md
-├── Seasonal Vaccine .pdf
+├── Presentation.pdf
 └── tuned_forest.sav
 ```
 [Final JupyterNotebook](https://github.com/ZachRauch/Flu-Shot-Learning/blob/main/Predicting%20Seasonal%20Vaccine%20Status.ipynb)

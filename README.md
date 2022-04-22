@@ -59,7 +59,7 @@ The top 3 most important features in determining whether a person was to get vac
 ```
 [Final JupyterNotebook](https://github.com/ZachRauch/Flu-Shot-Learning/blob/main/Predicting%20Seasonal%20Vaccine%20Status.ipynb)
 
-[Presentation](https://github.com/ZachRauch/Flu-Shot-Learning/blob/main/Seasonal%20Vaccine%20.pdf)
+[Presentation](https://github.com/ZachRauch/Flu-Shot-Learning/blob/main/Presentation.pdf)
 
 
 ## Citations:
